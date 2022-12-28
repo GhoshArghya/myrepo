@@ -1,0 +1,52 @@
+
+*{
+    
+}    
+header{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    padding: 40px;
+   
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
+section{
+    background-color: cadetblue;
+    padding: 40px;
+    font-size: 25px;
+  
+}
+.image{
+    float: left;
+    height: 400px;
+    width: 400px;
+    padding: 20px;
+    background-color: black;
+}
+nav{
+    text-align: center;
+    font-family: cursive;
+}
+span{
+    text-align: center;
+}
+.id{
+    background-color: lightgreen;
+    padding: 20px;
+    
+}
+.id:hover{
+        background: chartreuse; 
+}
+h2:hover{
+    background: gold;
+   
+}
+
